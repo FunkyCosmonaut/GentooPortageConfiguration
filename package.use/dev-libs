@@ -1,0 +1,5 @@
+# required by x11-libs/xapp-2.4.2::gentoo
+# required by gnome-extra/nemo-5.6.1::gentoo
+# required by nemo (argument)
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
+

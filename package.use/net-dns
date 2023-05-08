@@ -1,0 +1,4 @@
+# required by app-emulation/libvirt-8.9.0-r2::gentoo[virt-network]
+# required by dev-python/libvirt-python-8.9.0::gentoo
+>=net-dns/dnsmasq-2.89 script
+
